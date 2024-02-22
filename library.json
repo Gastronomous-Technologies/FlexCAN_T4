@@ -1,0 +1,5 @@
+{
+    "name": "FlexCAN_T4",
+    "version": "1.0.0",
+    "description": "Library for CAN on Teensy 4"
+}
